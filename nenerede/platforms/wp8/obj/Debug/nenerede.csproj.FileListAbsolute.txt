@@ -1,0 +1,14 @@
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\Background.png
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\com.mobileservices.nenerede.dll
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\com.mobileservices.nenerede.pdb
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\com.mobileservices.nenerede.g.resources
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\com.mobileservices.nenerede.dll
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\com.mobileservices.nenerede.pdb
+C:\Users\Hatice Varlık\Desktop\nenerede\nenerede\platforms\wp8\obj\Debug\XapCacheFile.xml
